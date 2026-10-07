@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Image"
+  short_description: "Generate and edit images through the OpenAI Image API"
+  default_prompt: "Use $gpt-image, run its script with --json, and return every verified output path as a Markdown link."
